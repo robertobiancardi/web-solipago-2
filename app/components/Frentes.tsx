@@ -20,7 +20,7 @@ const frentes = [
   },
   {
     titulo: "IA en tu operación",
-    descripcion: "Predecir fallas, ordenar pedidos, leer documentos. Cuando los datos están, la IA trabaja.",
+    descripcion: "Predecir fallas, ordenar pedidos, leer documentos.",
     Icono: Sparkles,
   },
 ];
