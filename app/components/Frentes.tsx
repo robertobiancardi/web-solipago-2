@@ -19,8 +19,8 @@ const frentes = [
     Icono: LayoutGrid,
   },
   {
-    titulo: "IA",
-    descripcion: "Solo si estás listo para eso.",
+    titulo: "IA en tu operación",
+    descripcion: "Predecir fallas, ordenar pedidos, leer documentos. Cuando los datos están, la IA trabaja.",
     Icono: Sparkles,
   },
 ];
